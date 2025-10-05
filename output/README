@@ -1,0 +1,11 @@
+argument of hw4:
+    argv[1]. dataset
+    argv[2]. output file name1(answer)
+    argv[3]. output file name2(figure)
+    argv[4]. run times
+    argv[5]. iteration
+    argv[6]. population size
+    argv[7]. alpha
+    argv[8]. beta
+    argv[9]. rho
+    argv[10]. Q
