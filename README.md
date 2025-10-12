@@ -2,6 +2,7 @@
 <img width="745" height="340" alt="image" src="https://github.com/user-attachments/assets/5338755b-11f6-48af-9ffe-5a87f1825908" />
 
 ## How to execute
+> ./output/hw4.exe <10個以下說明的argements，用於控制ACO的執行>
 
 ## arguments
 - argv\[1\]. dataset
